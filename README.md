@@ -1,7 +1,11 @@
 # Traffic_Prediction
-Traffic Prediction, BCG Datathon 12.2020
+
+
 
 The aim of this project is to develop a model that predicts the traffic (occupation rate of 3 streets: Avenue des Champs-Elysées, Rue de la Convention and Rue des Saints-Pères ) in Paris.
+
+
+
 
 Steps to execute to run the project from the start:
 --------------------------------------------------
@@ -13,7 +17,7 @@ step1:
 - Then rename them and place them under the folder "datasets". The name should be "washington_new.csv"
 
 
-- Fill the csv file template_x_pred.csv and fill it out with the desired values for the prediction. 
+- Open the csv file template_x_pred.csv and fill it out with the desired values for the prediction. 
 For that use the following links:
 	* https://covidtracker.fr/
 	* google for the weather forecast for t_min and t_max (e.g. use https://weather.com/weather/tenday/l/724a03c48ba53e3e5acee3b6d8a63717a02e1635413b129ca7a3dc0ff1ab895e#detailIndex5 )
