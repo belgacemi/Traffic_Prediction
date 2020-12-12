@@ -1,7 +1,7 @@
 # Traffic_Prediction
 Traffic Prediction, BCG Datathon 12.2020
 
-The aim of this project is to develop a model that predicts the traffic (occupation rate of streets) in Paris.
+The aim of this project is to develop a model that predicts the traffic (occupation rate of 3 streets: Avenue des Champs-Elysées, Rue de la Convention and Rue des Saints-Pères ) in Paris.
 
 Steps to execute to run the project from the start:
 --------------------------------------------------
