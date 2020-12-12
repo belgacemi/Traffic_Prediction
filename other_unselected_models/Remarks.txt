@@ -1,0 +1,9 @@
+The following models were developped in order to solve the problem at hand:
+	* LSTM
+	* Feed Forward Network
+	* Random Forest Regression
+	* Gaussian Process
+	* Support Vector Regression 
+
+In term of results, the Random Forest Regression model gave the best Mean Squared Error [MSE] values.
+The other models were dropped at the end stage, and the final work was further developped using the best performning model.

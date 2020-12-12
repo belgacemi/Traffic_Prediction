@@ -1,0 +1,2 @@
+,name,+-10%,+-20%,+-30%,features,target,street,mse,min_samples_leaf,path
+0,2020-12-10 23_49_16,24.404761904761905,45.83333333333334,61.904761904761905,"['weekday', 'weekofyear', 'month', 'year', 'time', 'mean_taux_occupation_past_week', 'tmin', 'tmax', 'taux_occupation_sae']",Taux d'occupation,washington,26.63610759441109,9,C:\Users\ihebe\OneDrive\Bureau\BCG\washington\Taux d_occupation\best\2020-12-10 23_49_16

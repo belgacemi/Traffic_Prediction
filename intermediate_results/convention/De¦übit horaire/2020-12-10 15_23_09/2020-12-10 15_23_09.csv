@@ -1,0 +1,2 @@
+,name,features,target,street,mse_tot,mse_first,min_samples_leaf,path
+0,2020-12-10 15_23_09,"['weekday', 'weekofyear', 'month', 'year', 'time', 'mean_debit_horaire_past_week', 'tmin', 'tmax']",Débit horaire,convention,18014.891282403005,5819.619216338347,6,/content/drive/My Drive/Hackathon_BCG_final/convention/Débit horaire/2020-12-10 15_23_09

@@ -1,0 +1,2 @@
+,name,features,mse_tot,mse_first,kernel,path
+0,2020-12-09 00_18_39,"['weekday', 'weekofyear', 'month', 'year', 'time', 'mean_taux_occupation_past_week']",83.96194576649121,53.65465896792314,"14.4**2 + Matern(length_scale=6.62, nu=1.5) + WhiteKernel(noise_level=47.9)",/content/drive/My Drive/Dossier partagé avec Iheb BELGACEM/BCG_Hackathon/Gaussian_Process/2020-12-09 00_18_39

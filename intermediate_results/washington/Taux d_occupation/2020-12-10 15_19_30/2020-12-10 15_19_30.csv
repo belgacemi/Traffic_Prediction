@@ -1,0 +1,2 @@
+,name,features,target,street,mse_tot,mse_first,min_samples_leaf,path
+0,2020-12-10 15_19_30,"['weekday', 'weekofyear', 'month', 'year', 'time', 'mean_taux_occupation_past_week']",Taux d'occupation,washington,79.54941424391703,17.51242918102571,7,/content/drive/My Drive/Hackathon_BCG_final/washington/Taux d'occupation/2020-12-10 15_19_30

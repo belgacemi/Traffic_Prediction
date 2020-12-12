@@ -1,0 +1,2 @@
+,name,+-10%,+-20%,+-30%,features,target,street,mse,min_samples_leaf,path
+0,2020-12-10 23_50_04,20.238095238095237,50.0,68.45238095238095,"['weekday', 'weekofyear', 'month', 'year', 'time', 'mean_taux_occupation_past_week', 'tmin', 'tmax', 'confin_0', 'confin_1', 'confin_2', 'couvrefeu', 'ferie']",Taux d'occupation,convention,12.10251785088925,8,C:\Users\ihebe\OneDrive\Bureau\BCG\convention\Taux d_occupation\best\2020-12-10 23_50_04

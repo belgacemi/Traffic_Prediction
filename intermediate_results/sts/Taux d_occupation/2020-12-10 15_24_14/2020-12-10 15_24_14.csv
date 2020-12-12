@@ -1,0 +1,2 @@
+,name,features,target,street,mse_tot,mse_first,min_samples_leaf,path
+0,2020-12-10 15_24_14,"['weekday', 'weekofyear', 'month', 'year', 'time', 'mean_taux_occupation_past_week', 'tmin', 'tmax']",Taux d'occupation,sts,18.75966635443531,6.4857442464262425,5,/content/drive/My Drive/Hackathon_BCG_final/sts/Taux d'occupation/2020-12-10 15_24_14

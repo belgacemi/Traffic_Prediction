@@ -1,0 +1,2 @@
+,name,features,target,street,mse_tot,mse_first,min_samples_leaf,path
+0,2020-12-10 15_21_07,"['weekday', 'weekofyear', 'month', 'year', 'time', 'mean_debit_horaire_past_week', 'tmin', 'tmax', 'taux_occupation_sae']",Débit horaire,washington,82039.1593003295,20237.84495768074,8,/content/drive/My Drive/Hackathon_BCG_final/washington/Débit horaire/2020-12-10 15_21_07

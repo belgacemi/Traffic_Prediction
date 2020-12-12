@@ -1,0 +1,2 @@
+,name,+-10%,+-20%,+-30%,features,target,street,mse,min_samples_leaf,path
+0,2020-12-10 23_43_42,32.142857142857146,60.11904761904762,81.54761904761905,"['weekday', 'weekofyear', 'month', 'year', 'time', 'mean_debit_horaire_past_week', 'taux_occupation_sae']",Débit horaire,washington,22944.312639449334,7,C:\Users\ihebe\OneDrive\Bureau\BCG\washington\Débit horaire\best\2020-12-10 23_43_42

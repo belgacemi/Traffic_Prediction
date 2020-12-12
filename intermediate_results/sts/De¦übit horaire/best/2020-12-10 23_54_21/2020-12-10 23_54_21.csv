@@ -1,0 +1,2 @@
+,name,+-10%,+-20%,+-30%,features,target,street,mse,min_samples_leaf,path
+0,2020-12-10 23_54_21,19.047619047619047,45.833333333333336,78.57142857142857,"['weekday', 'weekofyear', 'month', 'year', 'time', 'mean_debit_horaire_past_week', 'tmin', 'tmax', 'confin_0', 'confin_1', 'confin_2', 'couvrefeu', 'ferie', 'taux_occupation_sae']",Débit horaire,sts,11293.82402047113,10,C:\Users\ihebe\OneDrive\Bureau\BCG\sts\Débit horaire\best\2020-12-10 23_54_21
